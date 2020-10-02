@@ -16,6 +16,14 @@
 
 <br>
 
+<p align="center">
+  <a href="./.github/hero.jpg">
+    <img src="./.github/hero.jpg" alt="Project Hero Image" />
+  </a>
+</p>
+
+<br>
+
 ## About
 Tired of staring at the same intros over and over again wasting your time? Want to automatically skip the "press any key" screen, so you can do something else until everything is ready? I felt the same and created FSJumpStarter2020 to fix this.
 
@@ -27,7 +35,7 @@ Tired of staring at the same intros over and over again wasting your time? Want 
 <br>
 
 ## Instructions
-1. Download the FSJumpStarter2020.exe and place it on your desktop. 
+1. Download the [FSJumpStarter2020.exe](./FSJumpStarter2020.exe) and place it on your desktop. 
 2. Double click to start Microsoft Flight Simulator. 
 3. That's it. Enjoy! 
 
