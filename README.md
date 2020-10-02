@@ -36,7 +36,7 @@ Tired of staring at the same intros over and over again wasting your time? Want 
 <br>
 
 ## Instructions
-1. Download the [FSJumpStarter2020.exe](./FSJumpStarter2020.exe) and place it on your desktop. 
+1. Download the [FSJumpStarter2020.exe](https://github.com/AmbitiousPilots/FSJumpStarter2020/releases/tag/v1.0) and place it on your desktop. 
 2. Double click to start Microsoft Flight Simulator. 
 3. That's it. Enjoy! 
 
