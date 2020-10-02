@@ -31,6 +31,7 @@ Tired of staring at the same intros over and over again wasting your time? Want 
 :point_right: No installation required <br>
 :point_right: Automatically focuses the game window <br>
 :point_right: Works on single and multi-monitor setup <br>
+:point_right: Shows a Flight Simulator splash screen <br>
 :heavy_check_mark: Compatible with Steam and Microsoft Store version <br>
 <br>
 
@@ -43,7 +44,7 @@ Tired of staring at the same intros over and over again wasting your time? Want 
 <br><br>
 
 ## Status
-This project is being actively developed and maintained. For discussion, questions, remarks, head on over to the forum thread: 
+This project is being actively developed and maintained. For discussion, questions, remarks, feature requests, head on over to the forum thread: 
 
 [FORUM LINK](https://forums.flightsimulator.com/)
 <br><br>
