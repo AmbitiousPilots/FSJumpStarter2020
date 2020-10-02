@@ -40,7 +40,7 @@ Tired of staring at the same intros over and over again wasting your time? Want 
 2. Double click to start Microsoft Flight Simulator. 
 3. That's it. Enjoy! 
 
-***Note:** FSJumpStarter2020 automatically detects if you've installed the Steam or Microsoft Store version of Flight Simulator.*
+***Note:** FSJumpStarter2020 automatically detects if you've installed the Steam or Microsoft Store version of Flight Simulator. Also a splash screen is shown until Flight Simulator starts so you know the app is working.*
 <br><br>
 
 ## Status
