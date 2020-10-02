@@ -23,9 +23,7 @@ Tired of staring at the same intros over and over again wasting your time? Want 
 :point_right: No installation required <br>
 :point_right: Automatically focuses the game window <br>
 :point_right: Works on single and multi-monitor setup <br>
-:heavy_check_mark: Compatible with Steam and Microsoft Store version
-
-<br><br>
+:heavy_check_mark: Compatible with Steam and Microsoft Store version <br>
 
 ## Instructions
 1. Download the FSJumpStarter2020.exe and place it on your desktop. 
