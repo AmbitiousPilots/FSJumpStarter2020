@@ -14,13 +14,32 @@
   </a>
 </p>
 
+<br>
+
+## About
+Tired of staring at the same intros over and over again wasting your time? Want to automatically skip the "press any key" screen, so you can do something else until everything is ready? I felt the same and created FSJumpStarter2020 to fix this.
+
+:fire: Fire and forget! <br>
+:point_right: No installation required <br>
+:point_right: Automatically focuses the game window <br>
+:point_right: Works on single and multi-monitor setup <br>
+:heavy_check_mark: Compatible with Steam and Microsoft Store version
+
+<br><br>
+
 ## Instructions
-Download the FSJumpStarter2020.exe and place it on your desktop. Double click to start Microsoft Flight Simulator. That's it.
+1. Download the FSJumpStarter2020.exe and place it on your desktop. 
+2. Double click to start Microsoft Flight Simulator. 
+3. That's it. Enjoy! 
+
+**Note:**<br>FSJumpStarter2020 automatically detects if you've installed the Steam or Microsoft Store version of Flight Simulator.
+<br><br>
 
 ## Status
 This project is being actively developed and maintained. For discussion, questions, remarks, head on over to the forum thread: 
 
-[FORUM LINK](https://test.com/)
+[FORUM LINK](https://forums.flightsimulator.com/)
+<br><br>
 
 ## License
 FSJumpStarter2020 is provided under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
