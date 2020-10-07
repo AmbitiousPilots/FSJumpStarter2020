@@ -44,7 +44,7 @@ Tired of staring at the same intros over and over again wasting your time? Want 
 <br><br>
 
 ## Status
-This project is being actively developed and maintained. For discussion, questions, remarks, feature requests, head on over to the [forum thread](https://forums.flightsimulator.com/).
+This project is being actively developed and maintained. For discussion, questions, remarks, feature requests, head on over to the [forum thread](https://forums.flightsimulator.com/t/mod-start-fs-without-waiting-for-press-any-key-screen/296753).
 <br><br>
 
 ## License
