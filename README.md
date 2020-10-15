@@ -12,6 +12,9 @@
   <a href="#status">
     <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Project status" />
   </a>
+  <a href="https://github.com/AmbitiousPilots/FSJumpStarter2020/releases">
+    <img src="https://img.shields.io/github/downloads/AmbitiousPilots/FSJumpStarter2020/total.svg?color=0b0" alt="Download Count" />
+  </a>
 </p>
 
 <br>
