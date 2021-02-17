@@ -1,6 +1,6 @@
 <h1 align="center">FSJumpStarter2020</h1>
 
-<p align="center">Starts Microsoft Flight Simulator without intros and skips to main menu automatically.</p>
+<p align="center">Starts Microsoft Flight Simulator without intros and shows a splash screen.</p>
 
 <p align="center">
   <a href="https://www.flightsimulator.com/">
@@ -20,15 +20,15 @@
 <br>
 
 <p align="center">
-  <a href="./.github/hero.jpg">
-    <img src="./.github/hero.jpg" alt="Project Hero Image" />
+  <a href="./.github/hero_v2.jpg">
+    <img src="./.github/hero_v2.jpg" alt="Project Hero Image" />
   </a>
 </p>
 
 <br>
 
 ## About
-Tired of staring at the same intros over and over again wasting your time? Want to automatically skip the "press any key" screen, so you can do something else until everything is ready? I felt the same and created FSJumpStarter2020 to fix this.
+Want to see a splash screen after you start Microsoft Flight Simulator? Tired of staring at the same intros over and over again wasting your time? I felt the same and now that the "press any key to continue" screen has been removed, I've created version 2 of FSJumpStarter2020.
 
 :fire: Fire and forget! <br>
 :point_right: No installation required <br>
